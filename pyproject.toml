@@ -16,5 +16,4 @@ dependencies = [
     "networkx",
     "pandas",
     "hypothesis",
-    "jupyterlab>=4.4.7",
 ]
